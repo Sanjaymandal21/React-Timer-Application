@@ -20,5 +20,5 @@ A React JS app to create, manage, and interact with customizable timers. The app
 
 1. **Clone the repository**:
    ```bash
-   git clone https://github.com/yourusername/react-timer-app.git
+   git clone https://github.com/Sanjaymandal21/React-Timer-Application.git
 
